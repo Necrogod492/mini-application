@@ -1,5 +1,5 @@
 const request = require("supertest");
-const app = require("./app"); // Assurez-vous que l'import est correct
+const app = require("./app");
 
 test("GET /", async () => {
   const response = await request(app).get("/");
