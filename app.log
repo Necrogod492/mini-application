@@ -5,3 +5,170 @@
 {"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-23T15:05:32.140Z","url":"/"}
 {"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-23T15:05:32.144Z","url":"/"}
 {"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-23T15:05:32.287Z","url":"/favicon.ico"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T14:29:59.001Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T14:29:59.015Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T14:29:59.146Z","url":"/favicon.ico"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T14:45:57.693Z","url":"/add"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T14:54:03.418Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":304,"timestamp":"2024-07-26T14:54:03.425Z","url":"/"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:43:40.275Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":304,"timestamp":"2024-07-26T15:43:40.280Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:49:06.846Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:49:06.851Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:54:06.448Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:54:06.453Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:54:59.846Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:54:59.854Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:55:18.519Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:55:18.528Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:55:39.498Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:55:39.505Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:56:54.948Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:56:54.955Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:58:27.984Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:58:27.990Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:59:13.853Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:59:13.858Z","url":"/"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T15:59:13.872Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:59:30.942Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T15:59:30.950Z","url":"/"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T15:59:30.963Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:00:26.501Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:00:26.506Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:01:53.442Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:01:53.450Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:01:53.493Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T16:01:53.493Z"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:02:11.439Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:02:11.445Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:02:11.473Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T16:02:11.473Z"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:04:12.785Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:04:12.790Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:04:56.551Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:04:56.556Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:04:56.587Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T16:04:56.588Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:14:01.846Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:14:01.853Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:14:01.878Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:14:01.884Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T16:14:01.884Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:14:17.287Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:14:17.293Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:14:17.320Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T16:14:17.321Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:14:17.330Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T16:14:17.331Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:16:41.172Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:16:41.178Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:16:41.203Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T16:16:41.204Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:16:41.213Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T16:16:41.214Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:19:33.948Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:19:33.953Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:19:33.983Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","timestamp":"2024-07-26T16:19:33.984Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:19:33.997Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","timestamp":"2024-07-26T16:19:33.998Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:21:26.399Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:21:26.407Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:21:26.434Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:21:26.434Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:21:26.443Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:21:26.444Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:23:08.528Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:23:08.533Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:23:08.562Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:23:08.563Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:23:08.567Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:23:08.568Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:47:12.015Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:47:12.022Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:12.051Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:47:12.051Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:12.057Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:47:12.058Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:47:17.410Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:47:17.416Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:17.446Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:47:17.447Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:17.452Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:47:17.453Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:47:23.273Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:47:23.281Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:23.314Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:47:23.315Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:23.319Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:47:23.319Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:47:28.361Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:47:28.367Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:28.390Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:47:28.391Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:28.395Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:47:28.396Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:47:34.368Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:47:34.377Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:34.411Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:47:34.412Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:34.417Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:47:34.418Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:47:39.510Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:47:39.516Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:39.548Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:47:39.549Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:39.558Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:47:39.559Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:47:44.773Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:47:44.778Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:44.799Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:47:44.800Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:47:44.805Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:47:44.806Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:51:27.943Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:51:27.954Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:27.978Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:51:27.979Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:27.988Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:51:27.988Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:51:34.167Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:51:34.172Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:34.203Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:51:34.204Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:34.208Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:51:34.208Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:51:44.578Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:51:44.590Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:44.619Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:51:44.621Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:44.625Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:51:44.626Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:51:54.601Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T16:51:54.607Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:54.633Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T16:51:54.635Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:51:54.638Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T16:51:54.639Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T17:34:57.046Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T17:34:57.053Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:34:57.084Z","url":"/add"}
+{"level":"info","message":"success","method":"POST","statusCode":200,"timestamp":"2024-07-26T17:34:57.084Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:34:57.089Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T17:34:57.089Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:34:57.092Z","url":"/multiply"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:34:57.108Z","url":"/multiply"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T17:34:57.108Z","url":"/multiply"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T17:37:13.033Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T17:37:13.038Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:37:13.066Z","url":"/add"}
+{"level":"info","message":"success method add","method":"POST","statusCode":200,"timestamp":"2024-07-26T17:37:13.066Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:37:13.070Z","url":"/add"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T17:37:13.070Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:37:13.074Z","url":"/multiply"}
+{"level":"info","message":"success method mutiply","method":"POST","statusCode":200,"timestamp":"2024-07-26T17:37:13.075Z","url":"/multiply"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:37:13.078Z","url":"/multiply"}
+{"level":"error","message":"Invalid input, it seems that one of the 2 input fields is not a number","method":"POST","statusCode":500,"timestamp":"2024-07-26T17:37:13.078Z","url":"/multiply"}
